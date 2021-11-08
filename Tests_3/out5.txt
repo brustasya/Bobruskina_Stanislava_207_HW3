@@ -1,0 +1,25 @@
+Before sorted:
+Container is store 10 shapes:
+Ball: radius = 3  density = 4.445654545, Volume = 113.09733359999998
+Parallelepiped: a = 1  b = 2 c = 3 density = 567.0, Volume = 6
+Tetrahedron: a = 30  density = 40.0, Volume = 3181.9805153394645
+Parallelepiped: a = 6  b = 2 c = 1 density = 5.0, Volume = 12
+Ball: radius = 13  density = 14.0, Volume = 9202.771922933332
+Parallelepiped: a = 134  b = 10 c = 10 density = 8.345, Volume = 13400
+Tetrahedron: a = 30  density = 49.0, Volume = 3181.9805153394645
+Parallelepiped: a = 3  b = 41 c = 5 density = 348.348, Volume = 615
+Tetrahedron: a = 3  density = 112112.11, Volume = 3.1819805153394642
+Parallelepiped: a = 11  b = 2 c = 3 density = 5.0, Volume = 66
+
+After sorted:
+Container is store 10 shapes:
+Parallelepiped: a = 134  b = 10 c = 10 density = 8.345, Volume = 13400
+Ball: radius = 13  density = 14.0, Volume = 9202.771922933332
+Tetrahedron: a = 30  density = 49.0, Volume = 3181.9805153394645
+Tetrahedron: a = 30  density = 40.0, Volume = 3181.9805153394645
+Parallelepiped: a = 3  b = 41 c = 5 density = 348.348, Volume = 615
+Ball: radius = 3  density = 4.445654545, Volume = 113.09733359999998
+Parallelepiped: a = 11  b = 2 c = 3 density = 5.0, Volume = 66
+Parallelepiped: a = 6  b = 2 c = 1 density = 5.0, Volume = 12
+Parallelepiped: a = 1  b = 2 c = 3 density = 567.0, Volume = 6
+Tetrahedron: a = 3  density = 112112.11, Volume = 3.1819805153394642

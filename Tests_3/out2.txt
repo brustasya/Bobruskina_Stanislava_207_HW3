@@ -1,0 +1,13 @@
+Before sorted:
+Container is store 4 shapes:
+Ball: radius = 22  density = 34.1234, Volume = 44602.23733973333
+Ball: radius = 23  density = 45.0, Volume = 50965.00955226666
+Tetrahedron: a = 4  density = 5.0, Volume = 7.542472332656508
+Parallelepiped: a = 34  b = 56 c = 2 density = 4.5, Volume = 3808
+
+After sorted:
+Container is store 4 shapes:
+Ball: radius = 23  density = 45.0, Volume = 50965.00955226666
+Ball: radius = 22  density = 34.1234, Volume = 44602.23733973333
+Parallelepiped: a = 34  b = 56 c = 2 density = 4.5, Volume = 3808
+Tetrahedron: a = 4  density = 5.0, Volume = 7.542472332656508

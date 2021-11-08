@@ -1,0 +1,9 @@
+Before sorted:
+Container is store 2 shapes:
+Ball: radius = 58  density = 678.234, Volume = 817283.2204949333
+Tetrahedron: a = 96  density = 854.23456, Volume = 104267.13752664356
+
+After sorted:
+Container is store 2 shapes:
+Ball: radius = 58  density = 678.234, Volume = 817283.2204949333
+Tetrahedron: a = 96  density = 854.23456, Volume = 104267.13752664356
